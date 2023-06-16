@@ -4,12 +4,18 @@ title: InfraOps with IaC
 layout: image-header-intro
 imageRight: images/it.png
 ---
+
 # 基于IaC的架构管控
 
 国网江苏公司
 
 
 ---
+layout: image-right
+image: images/blank.png
+equal: false
+---
+
 
 # IT运维
 
@@ -21,6 +27,10 @@ imageRight: images/it.png
   - 各类新技术部署应用
   - 等
 
+---
+layout: image-right
+image: images/blank.png
+equal: false
 ---
 
 # 关键技术问题
