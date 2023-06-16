@@ -2,7 +2,7 @@
 theme: light-icons
 title: InfraOps with IaC
 layout: image-header-intro
-imageRight: images/it.png
+imageRight: https://caochun.github.io/infraops/images/it.png
 ---
 
 # 基于IaC的架构管控
@@ -12,7 +12,7 @@ imageRight: images/it.png
 
 ---
 layout: image-right
-image: images/blank.png
+image: https://caochun.github.io/infraops/images/blank.png
 equal: false
 ---
 
@@ -29,7 +29,7 @@ equal: false
 
 ---
 layout: image-right
-image: images/blank.png
+image: https://caochun.github.io/infraops/images/blank.png
 equal: false
 ---
 
@@ -38,7 +38,4 @@ equal: false
 1. 基础设施环境的软硬件运行正常么？
 2. 应用与当前基础设施间匹配么？
    
----
-
-
 
